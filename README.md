@@ -1,7 +1,7 @@
 # CSE481_Capstone
 
 First look at necapstone_env.yml to create a conda environment and install dependencies!\
-    Run `conda env create --name <name of your choice> --file=necapstone_enc.yml`
+    Run `conda env create --name <name> --file=necapstone_env.yml`
 
 Muscles: contains images of different upper body muscles affected by our model\
 \
